@@ -1,0 +1,12 @@
+{
+    "name": "brackets-powershell-devkit",
+    "title": "PowerShell DevKit",
+    "description": "PowerShell DevKit is a plugin that will add support for PowerShell in Brackets",
+    "homepage": "http://www.5t4tic.com",
+    "version": "0.0.1",
+    "author": "JP <dev@5t4tic.com> (http://www.5t4tic.com",
+    "license": "Pending...",
+    "engines": {
+        "brackets": ">=<Current engine =0.40.0>"
+    }
+}
